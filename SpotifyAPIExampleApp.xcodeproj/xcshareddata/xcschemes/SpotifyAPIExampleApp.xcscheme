@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1400"
+   LastUpgradeVersion = "1540"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -54,12 +54,12 @@
       <EnvironmentVariables>
          <EnvironmentVariable
             key = "CLIENT_ID"
-            value = "your client id"
+            value = "177cd9b8cf2f4dcb8b7521887d626cfc"
             isEnabled = "YES">
          </EnvironmentVariable>
          <EnvironmentVariable
             key = "CLIENT_SECRET"
-            value = "your client secret"
+            value = "db1223298585463b81af01f93b0c438b"
             isEnabled = "YES">
          </EnvironmentVariable>
       </EnvironmentVariables>
